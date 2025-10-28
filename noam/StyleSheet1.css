@@ -1,0 +1,32 @@
+﻿﻿body {
+    direction: rtl;
+    background-color: black;
+}
+
+h1 {
+    font-family: Aharoni;
+    font-size: 350%;
+    color: white;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200%;
+    color: white;
+}
+
+p {
+    font-family: Arial;
+    text-align: right;
+    max-width: 480px;
+    color: white;
+    font-size: 150%;
+}
+
+hr {
+    border: 1.5px solid white;
+}
+
+div {
+    text-align: match-parent;
+}
