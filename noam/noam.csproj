@@ -67,15 +67,30 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="cheetah.html" />
+    <Content Include="chimpanzee.html" />
+    <Content Include="Elephant.html" />
     <Content Include="HtmlPage1.html" />
-    <Content Include="HtmlPage2.html" />
+    <Content Include="HtmlPage3.html" />
+    <Content Include="img\Cheetah_%28Acinonyx_jubatus%29_juvenile_..._%2851653051742%29.jpg" />
+    <Content Include="img\Elephants_at_Etosha_National_Park03.jpg" />
+    <Content Include="img\fb93f627-1e1e-4522-b84a-595de30f226e_1993590.jpg" />
+    <Content Include="img\Naja_Katiensis.jpg" />
+    <Content Include="img\Pan_troglodytes_%28male%29.jpg" />
+    <Content Include="img\Sagittarius_serpentarius00a.jpg" />
+    <Content Include="img\White_Rhinoceros1.jpg" />
+    <Content Include="lion.html" />
+    <Content Include="Rhinoceros with a wide mouth.html" />
+    <Content Include="Secretary Bird.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
+    <Content Include="yellow cobra.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\פיל" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -84,6 +99,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
