@@ -71,6 +71,7 @@
     <Content Include="chimpanzee.html" />
     <Content Include="Elephant.html" />
     <Content Include="HtmlPage1.html" />
+    <Content Include="HtmlPage2.html" />
     <Content Include="HtmlPage3.html" />
     <Content Include="img\Cheetah_%28Acinonyx_jubatus%29_juvenile_..._%2851653051742%29.jpg" />
     <Content Include="img\Elephants_at_Etosha_National_Park03.jpg" />
@@ -83,6 +84,7 @@
     <Content Include="Rhinoceros with a wide mouth.html" />
     <Content Include="Secretary Bird.html" />
     <Content Include="StyleSheet1.css" />
+    <Content Include="StyleSheet2.css" />
     <Content Include="Web.config" />
     <Content Include="yellow cobra.html" />
   </ItemGroup>
