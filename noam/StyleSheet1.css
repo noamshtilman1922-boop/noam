@@ -1,7 +1,8 @@
 ﻿﻿body {
-    direction: rtl;;
+    direction: rtl;
     max-width: 1000px;
     background-color:blueviolet;
+
 }
 
 
@@ -34,5 +35,10 @@ hr {
 }
 
 div {
-    text-align: match-parent;
+    text-align: center;
+
+}
+
+img{
+    
 }
