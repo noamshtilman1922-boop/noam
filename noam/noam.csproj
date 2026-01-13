@@ -83,11 +83,13 @@
     <Content Include="img\White_Rhinoceros1.jpg" />
     <Content Include="img\חץ.png" />
     <Content Include="JavaScript.js" />
+    <Content Include="JavaScript2.js" />
     <Content Include="lion.html" />
     <Content Include="Rhinoceros with a wide mouth.html" />
     <Content Include="Secretary Bird.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="StyleSheet2.css" />
+    <Content Include="StyleSheet5.css" />
     <Content Include="Web.config" />
     <Content Include="yellow cobra.html" />
   </ItemGroup>

@@ -1,0 +1,16 @@
+﻿body table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: lightcyan;
+}
+
+
+
+th {
+    color: darkgray;
+    direction: rtl;
+    border: 1px solid black;
+}
+
+
